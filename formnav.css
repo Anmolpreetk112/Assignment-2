@@ -1,0 +1,43 @@
+
+body {
+    text-align: cenetr;
+    background-position: center;
+    background-size: cover;
+    background-color:aliceblue;
+}
+
+
+
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing:border-box;
+    resize:horizontal;
+  }
+  
+  
+  label {
+    padding: 5px 5px 12px 0;
+    display:block;
+  }
+  input[type=submit] {
+    background-color:cornflowerblue;
+    color:black;
+    padding: 12px 20px;
+    border:#f2f2f2;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  .container {
+    border-radius: 5px;
+    background-color:darkseagreen;
+    padding: 20px;
+    position:relative;
+    width:50%;
+    margin:0 auto;
+
+  }
+
